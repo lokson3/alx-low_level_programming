@@ -9,11 +9,8 @@
 
 int main(void)
 {
-	int r;
 
-	r = print_last_digit(20000329);
-
-	printf("%d\n", r);
+	print_last_digit(20000329);
 
 	return (0);
 }
