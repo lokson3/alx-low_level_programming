@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - print all argumnetss including the first one 
+ * main - print all argumnetss including the first one
  *
- * @argc - argument count
- * @argv - argument array
+ * @argc: argument count
+ * @argv: argument array
  *
  * Return: 0
  */
